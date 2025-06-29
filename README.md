@@ -11,5 +11,5 @@
 
 ### 1.1 Hardware
 В роле оновы для всего этого проекта выступит ASUS X200M.
-![image](https://github.com/user-attachments/assets/f6db643d-c48f-4c41-8758-dd3b434b99da)
+<ime src="https://github.com/user-attachments/assets/f6db643d-c48f-4c41-8758-dd3b434b99da" width="300">
 ![image](https://github.com/user-attachments/assets/adccc70e-c52f-4a3a-a746-bc364798a1ec)
